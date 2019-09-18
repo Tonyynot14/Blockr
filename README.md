@@ -7,7 +7,7 @@ Currently functioning on some SDK but invokes a private method so does not work 
 
 ## Installation and Setup Instructions
 
-Clone down this repository. You will need Android studio downloaded https://developer.android.com/studio
+Clone down this repository. You will need Android studio downloaded [android studio](https://developer.android.com/studio)
 
 ## Reflection
 
