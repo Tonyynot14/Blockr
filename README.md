@@ -2,14 +2,14 @@
 
 An  android app used to filter phone calls user preference, built with Java, Sqlite, XML
 
-##Project Status
+## Project Status
 Currently functioning on some SDK but invokes a private method so does not work on all SDK
 
-##Installation and Setup Instructions
+## Installation and Setup Instructions
 
 Clone down this repository. You will need Android studio downloaded https://developer.android.com/studio
 
-##Reflection
+## Reflection
 
 This was a one month long project built during my final semester at Community College for my final 
 project in Mobile Application Development. I had a idea of wanting to block robo calls so I looked into
